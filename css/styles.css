@@ -1,0 +1,101 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
+ 
+ body{
+  background-color: #F9F4EF;
+}
+
+*{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-size:96px;
+  font-weight: 600;
+  text-align: center;
+  padding: 30px 30px 0 30px;
+  
+}
+
+h1 span{
+  border-bottom: solid #6B553F 2px;
+}
+
+li span{
+  font-weight: bold;
+}
+
+div#header{
+  text-align: center;
+}
+
+div#header p{ 
+  color: #6B553F;
+  padding-bottom: 100px;
+  padding-top: 0;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+img{
+  border-radius: 10px;
+  border: 2px solid #6B553F;
+}
+
+div#image{
+  text-align: center;
+  padding: 50px;
+  background-color: #EADDD0;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+h2#list{
+  padding-left: 400px;
+  padding-right: 100px;
+  padding-top: 75px;
+  padding-bottom: 40px;
+  font-weight: bold;
+}
+
+ul{
+  text-align: left;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+p.prime{
+  text-align: center;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 50px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p.Prime{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  color: #6B553F;
+  font-weight: bold;
+}
+
+p.wikipedia{
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  padding-bottom: 50px;
+}
+
+p#footer{
+  text-align: center;
+  padding: 50px;
+  background-color: #EADDD0;
+  font-size: larger;
+  font-weight: bold;
+} 
